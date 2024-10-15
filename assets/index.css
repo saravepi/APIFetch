@@ -1,0 +1,50 @@
+
+
+#loading{
+    font-family: "Coiny", system-ui;
+}
+
+h1{
+    font-size: 57px;
+    font-family: "Coiny", system-ui;
+    padding: 15px 0;
+    text-align: center;
+}
+
+
+.card-img-top{
+    height: 97px;
+    width: 97px;
+    padding: 7px;
+    margin: auto
+}
+
+.card-title{
+    font-family: "Gayathri", system-ui;
+    text-align: center;
+    color: #AA3378;
+}
+
+
+.lead{
+    font-family: "Gayathri", system-ui;
+    font-size: small;
+    text-align: center;
+}
+
+.btn{
+    color: beige;
+    background-color: #AA3378;
+    font-family: "Coiny", system-ui;
+    padding: 0 15px;
+    
+}
+
+.pagination {
+    color: #aa3378;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+  }
+
